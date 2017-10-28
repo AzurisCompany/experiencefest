@@ -283,7 +283,7 @@
 	
 		$('.newsletter-form').ajaxChimp({
         language: 'cm',
-        url: 'http://dsathemes.us3.list-manage.com/subscribe/post?u=af1a6c0b23340d7b339c085b4&id=344a494a6e'
+        url: 'https://azuris.us13.list-manage.com/subscribe/post?u=cae3b321b482dee85327703e5&amp;id=07057719e1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form'
             //http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
 		});
 
